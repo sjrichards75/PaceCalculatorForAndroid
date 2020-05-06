@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Pace Calculator</string>
+    <string name="target_pace_calc_per_calc"><![CDATA[Target pace: <calc> per <calc>]]></string>
+    <string name="calculate">Calculate</string>
+    <string name="km">KM</string>
+    <string name="miles">Miles</string>
+    <string name="units">Units</string>
+    <string name="distance">Distance</string>
+    <string name="goal_time">Goal Time</string>
+    <string name="hh">hrs</string>
+    <string name="mm">mins</string>
+    <string name="ss">secs</string>
+</resources>
